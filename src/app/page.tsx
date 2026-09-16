@@ -34,10 +34,10 @@ export default function Home() {
         </div>
         <FadeIn className="relative aspect-[4/5] md:col-span-5 md:col-start-8">
           <Image
-            src="/images/Etishree-portrait.jpg"
+            src={site.photo}
             alt={`${site.firstName} on the beach, smiling toward the camera`}
             fill
-            className="object-cover object-[center_20%]"
+            className="object-cover object-[center_70%]"
             sizes="(max-width: 768px) 100vw, 40vw"
           />
         </FadeIn>

@@ -4,6 +4,7 @@ export const site = {
   location: "Canada",
   email: "hello@lifexdentistry.com",
   tagline: "Careful dentistry, and a life outside the clinic.",
+  photo: "/images/main-image.png",
 };
 
 export const navLinks = [

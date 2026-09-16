@@ -21,10 +21,10 @@ export default function AboutPage() {
       <div className="mt-14 grid items-start gap-12 md:grid-cols-12">
         <FadeIn className="relative aspect-[3/4] md:col-span-5">
           <Image
-            src="/images/Etishree-cafe.jpg"
-            alt={`${site.firstName} at a cafe table with a coffee`}
+            src={site.photo}
+            alt={`${site.firstName} at the beach`}
             fill
-            className="object-cover object-[center_20%]"
+            className="object-cover object-[center_70%]"
             sizes="(max-width: 768px) 100vw, 42vw"
             loading="eager"
             fetchPriority="high"

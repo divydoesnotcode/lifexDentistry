@@ -23,8 +23,8 @@ export function Hero() {
         transition={{ duration: 1.1, ease }}
       >
         <Image
-          src="/images/Etishree-bondi.png"
-          alt={`${site.firstName} at the beach, in a pink linen shirt by a beach sign`}
+          src={site.photo}
+          alt={`${site.firstName} at the beach, in a pink linen shirt`}
           fill
           priority
           className="object-cover object-[center_82%]"
