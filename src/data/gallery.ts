@@ -20,7 +20,7 @@ export const gallery: GalleryItem[] = [
     aspect: "aspect-[16/9]",
   },
   {
-    src: "/images/asha-bondi.png",
+    src: "/images/Etishree-bondi.png",
     alt: "Etishree at the beach, standing by a beach sign in a pink linen shirt",
     width: 918,
     height: 1288,
@@ -39,7 +39,7 @@ export const gallery: GalleryItem[] = [
     aspect: "aspect-[4/5]",
   },
   {
-    src: "/images/asha-walk.jpg",
+    src: "/images/Etishree-walk.jpg",
     alt: "Etishree walking along the beach toward the water",
     width: 825,
     height: 1113,
@@ -49,7 +49,7 @@ export const gallery: GalleryItem[] = [
     object: "object-[center_70%]",
   },
   {
-    src: "/images/asha-cafe.jpg",
+    src: "/images/Etishree-cafe.jpg",
     alt: "Etishree sitting at a sunny cafe table with a coffee",
     width: 825,
     height: 1113,
@@ -58,7 +58,7 @@ export const gallery: GalleryItem[] = [
     aspect: "aspect-[3/4]",
   },
   {
-    src: "/images/asha-lookout.jpg",
+    src: "/images/Etishree-lookout.jpg",
     alt: "Etishree at a coastal lookout at golden hour, looking out at the ocean",
     width: 825,
     height: 1113,
@@ -67,7 +67,7 @@ export const gallery: GalleryItem[] = [
     aspect: "aspect-[3/4]",
   },
   {
-    src: "/images/asha-portrait.jpg",
+    src: "/images/Etishree-portrait.jpg",
     alt: "Portrait of Etishree on the beach, smiling toward the camera",
     width: 825,
     height: 1113,
